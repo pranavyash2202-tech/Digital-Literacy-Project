@@ -21,9 +21,9 @@ Inside task-1-presentation/, you will find a visual guide created using Canva. I
 2. Professional Network :-
 I have updated my presence on:
 
-LinkedIn: https://www.linkedin.com/in/pranav-ranjan-29838236b/
-GitHub: https://github.com/pranavyash2202-tech
-kaggle: https://www.kaggle.com/yashkacchu
+-LinkedIn: https://www.linkedin.com/in/pranav-ranjan-29838236b/
+-GitHub: https://github.com/pranavyash2202-tech
+-kaggle: https://www.kaggle.com/yashkacchu
 
 3.Collaboration & Coding:-
 Kaggle: Completed the Python Introduction challenge to kickstart my coding journey.
